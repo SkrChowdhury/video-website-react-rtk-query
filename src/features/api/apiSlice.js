@@ -15,3 +15,4 @@ export const apiSlice = createApi({
     }),
 })
 
+export const {useGetVideosQuery} = apiSlice
